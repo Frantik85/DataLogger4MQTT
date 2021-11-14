@@ -1,2 +1,2 @@
 # DataLogger4MQTT
-An app, wirtten to be used on RaspPis, that will log every topic it receives to a file
+An app, written to be used on RaspPis, that will log every topic it receives to a file
